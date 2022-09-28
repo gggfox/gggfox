@@ -22,7 +22,7 @@ Welcome to my Github!
    <img alt="Javascript" title="Javascript" src="https://img.stackshare.io/service/1209/javascript.jpeg" height="40" style="vertical-align:top; margin:4px">
    <img alt="Node.js" title="Node.js" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png" height="40" style="vertical-align:top; margin:4px">
    <img alt="Python" title="Python" src="https://img.stackshare.io/service/993/pUBY5pVj.png" height="40" style="vertical-align:top; margin:4px">
-   <img alt="HTML5" title="html" src="https://img.stackshare.io/service/2538/kEpgHiC9.png" height="40" style="vertical-align:top; margin:4px">
+   <img alt="HTML5" title="Html" src="https://img.stackshare.io/service/2538/kEpgHiC9.png" height="40" style="vertical-align:top; margin:4px">
    <img alt="CSS3" title="Css" src="https://img.stackshare.io/service/6727/css.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
@@ -51,14 +51,6 @@ https://stackshare.io/feed
    <img alt="" title="" src="" height="40" style="vertical-align:top; margin:4px">
 -->
 
-<style>
-  .tooltip .tooltiptext {
-    width: 100px;
-    top: 100%;
-    left: 50%;
-    margin-left: -50px; /* This makes the margin half of the width to the center */
-}
-</style>
 ---
 ### 📊 Github stats
 ---
