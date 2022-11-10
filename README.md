@@ -6,11 +6,10 @@ Welcome to my Github!
 ---
 
 - Backend Development
-- Microservices
-- Distributes Systems
-- Devops 
-- Kubernetes
-- Terraform
+- Cloud Computing 
+- Svelte.js
+- Nest.js
+- Golang(soon)
   
 ---
 ### 🤖 Tech Stack
