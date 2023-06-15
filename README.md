@@ -4,13 +4,16 @@ Welcome to my Github!
 ---
 ### 🌱 I’m currently learning 
 ---
-
-- Backend Development
+- Distributed Systems
 - Cloud Computing 
-- Svelte.js
-- Nest.js
-- Golang(soon)
-  
+
+---
+### 🚀 Things I want to learn
+---
+- prometheus & grafana (observability, tracing and logging)
+- react native
+- three.js & blender
+
 ---
 ### 🤖 Tech Stack
 ---
