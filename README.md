@@ -10,8 +10,8 @@ Welcome to my Github!
 ---
 ### 🚀 Things I want to learn
 
-- prometheus & grafana (observability, tracing and logging)
-- react native
+- azure
+- k8s
 - three.js & blender
 
 ---
